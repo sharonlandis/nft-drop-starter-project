@@ -1,0 +1,17 @@
+{
+  "name": "NFT #01",
+  "symbol": "MyNFT",
+  "description": "Collection of 3 cute dogs",
+  "sellerfee_basis_points": 500,
+  "image": "0.png",
+  "properties": {
+    "creators": [
+      {
+        "address": "L2wMh3HJqZVczwpvkVHL5rH2ocsNFk1WkhnjDytmm5x",
+        "share": 100
+      }
+    ],
+    "files": [{ "uri": "0.png", "type": "image/png" }]
+  },
+  "collection": { "name": "CuteDogs", "family": "CuteDogs" }
+}
